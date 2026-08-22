@@ -9,4 +9,3 @@ class Main{
         System.out.printf("After Swapping:n1=%d,n2=%d",n1,n2);
             }
 }
-}
